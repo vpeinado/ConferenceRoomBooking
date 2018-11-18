@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>sys-ui</category>
+        <content><![CDATA[    <h1 class="title topictitle1">Configure form layout</h1>        <div class="body taskbody">        <ol class="ol steps"><li class="li step">                <span class="ph cmd">Using the slushbucket, select the fields that you want display on the form and                    arrange them in the order in which you want them to appear.</span>                <ul class="ul choices" id="slushbucket-setup__choices_fjn_pbb_s5"><li class="li choice">To add a field to the <span class="ph uicontrol">Selected</span> column,                        double-click the field in the <span class="ph uicontrol">Available</span> column. </li><li class="li choice">To remove a field from the <span class="ph uicontrol">Selected</span> column,                        double-click the field in the <span class="ph uicontrol">Selected</span> column. </li><li class="li choice">To move a field up or down, select the field in the                            <span class="ph uicontrol">Selected</span> column and click the up or down                        icon.</li><li class="li choice">To select multiple consecutive fields, hold the <strong class="ph b">Shift</strong> key and                        click the first and the last field.</li><li class="li choice">To select multiple non-consecutive items, hold the <strong class="ph b">Ctrl</strong> key                            (<strong class="ph b">command</strong> key on Mac) and click the required fields.</li></ul>            </li><li class="li step">                <span class="ph cmd">Click <span class="ph uicontrol">Save</span>.</span>            </li></ol>    </div>    <div class="related-links"><div class="relinfo"><div class="reltitle">Related information<br /><div><a class="link" href="https://docs.servicenow.com/?context&#61;CSHelp:Use-Slushbucket&amp;version&#61;kingston" target="_blank">Use a slushbucket</a></div></div></div></div>]]></content>
+        <last_sync>2018-11-09 03:32:08</last_sync>
+        <modifier>setup</modifier>
+        <name>slushbucket-setup</name>
+        <page>slushbucket</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-09-10 03:28:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6589ee80db6c6300432dfe1ebf9619a1</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>slushbucket-setup</sys_name>
+        <sys_package display_value="Conference Room Booking" source="x_59153_conference">85df12efdb982300432dfe1ebf96191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room Booking">85df12efdb982300432dfe1ebf96191c</sys_scope>
+        <sys_update_name>sys_embedded_help_content_6589ee80db6c6300432dfe1ebf9619a1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-11-09 03:32:08</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=6589ee80db6c6300432dfe1ebf9619a1"/>
+</record_update>

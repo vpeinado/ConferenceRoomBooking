@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Conference Room Booking">31dfdeefdb982300432dfe1ebf961909</application>
+        <filter/>
+        <name>Conference Room Booking Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_59153_conference.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-08 13:28:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>39dfdeefdb982300432dfe1ebf96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Conference Room Booking Table</sys_name>
+        <sys_package display_value="Conference Room Booking" source="x_59153_conference">85df12efdb982300432dfe1ebf96191c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room Booking">85df12efdb982300432dfe1ebf96191c</sys_scope>
+        <sys_update_name>sys_ui_module_39dfdeefdb982300432dfe1ebf96190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-08 13:28:57</sys_updated_on>
+        <table>x_59153_conference_room_booking_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
